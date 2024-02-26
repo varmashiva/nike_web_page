@@ -1,0 +1,84 @@
+nav{
+    position: fixed;
+    /* background-color: white; */
+    z-index: 1;
+    margin-top: 20px;
+   }
+   .img{
+       position:relative ;
+       left: 55px;
+       /* background-color: white; */
+       background: transparent;
+       height: 30px;
+     }
+   
+     *{
+       font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+     }
+     .new{
+       position: relative;
+       bottom: 50px;
+       left: 300px;
+       width: 200px;
+       
+     }
+     .men{
+       position: relative;
+       bottom: 85px;
+       left: 450px;
+       width: 170px;
+     }
+     .women{
+       position: relative;
+       bottom: 120px;
+       left: 515px;
+       width: 200px;
+     }
+     .kids{
+       position: relative;
+       bottom: 155px;
+       left: 600px;
+       width: 200px;
+     }
+     .sale{
+       position: relative;
+       bottom: 188px;
+       left: 660px;
+       width: 170px;
+     }
+     #name{
+       border-radius: 20px;
+       width: 80px;
+       position: relative;
+       bottom:225px;
+       left:800px;
+     }
+     
+     body{
+       padding-left: 100px;
+     }
+     #image{
+       height: 620px;
+       width: 1120px;
+       bottom: 100px;
+       padding-top: 150px;
+    }
+    hr {
+       bottom: 20px;
+    }
+     .search{
+       border: 1px solid black;
+       display: flex;
+       width: 30px;
+   }
+   .p {
+       width: 1220px;
+       font-size: medium;
+       position: sticky;
+       line-height: 150%;
+   }
+   header{
+       height: fit-content;
+   }
+   
+     
